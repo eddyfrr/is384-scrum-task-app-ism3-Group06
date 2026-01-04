@@ -22,14 +22,16 @@ The project focuses on **Scrum methodology**, team collaboration, and **DevOps p
 | EDMUND WILLIAM RWEGASIRA | 31239/T.2023 | Developer 1 / Repo Manager |
 | REAGAN CHARLES REUBEN | 30489/T.2023 | Developer 2 |
 | FARFIJLA YAHAYA SAMBAYA | 31148/T.2023 | Developer 3 |
-| MESHACKI YUSUPH MPENDA | 32001/T.2023 | Developer 3 |
+| MESHACKI YUSUPH MPENDA | 32001/T.2023 | Developer 4 |
 
 ---
 
 ## Repository Structure
 is384-scrum-task-app-ism-02/
 ├── README.md
+
 ├── scrum-overview.md
+
 └── sprint-plan.md
 
 
