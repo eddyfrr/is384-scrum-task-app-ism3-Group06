@@ -32,3 +32,5 @@ The Scrum Master leads the sprint retrospective meeting where the team reflects 
 
 ### Increment
 A working cloud-based task management web app including task creation, assignment, viewing, and completion features.
+
+The system allows users to assign tasks to other users and mark tasks as complete when finished.
