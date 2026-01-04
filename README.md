@@ -28,6 +28,7 @@ The project focuses on **Scrum methodology**, team collaboration, and **DevOps p
 
 ## Repository Structure
 is384-scrum-task-app-ism-02/
+
 ├── README.md
 
 ├── scrum-overview.md
