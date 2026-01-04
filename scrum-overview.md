@@ -22,3 +22,10 @@ At the end of the sprint, the team demonstrates the completed features of the cl
 
 ### Sprint Retrospective
 The Scrum Master leads the sprint retrospective meeting where the team reflects on what went well, what did not go well, and identifies actions for improving the next sprint.
+
+
+## 3. Scrum Master Responsibilities
+- Ensure Scrum practices are followed by the team
+- Facilitate all Scrum events: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective
+- Remove impediments affecting the team
+- Help team stay focused and follow Scrum workflow
