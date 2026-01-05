@@ -7,3 +7,9 @@
 
 ##2. Sprint Goal
 Deliver a cloud-based task management web app with basic task creation, assignment, completion, and viewing functionality in this sprint.
+
+## 3. Definition of Done (DoD)
+- Code pushed to GitHub repository
+- All unit and integration tests (where applicable) passed
+- Documentation updated (README and .md files)
+- Pull Request reviewed and merged into main branch
