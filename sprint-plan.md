@@ -1,4 +1,3 @@
-##sprint
 ##1. Product Backlog
 1. Add new task
 2. Assign task to user
