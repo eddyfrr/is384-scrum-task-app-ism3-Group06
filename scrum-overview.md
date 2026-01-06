@@ -1,12 +1,13 @@
 ## 1. Scrum Roles
 | Name | Registration Number | Scrum Role |
 |------|-------------------|------------|
-| JOHN MKAWE | 30831/T.2023 | Product Owner |
-| BRITNEY BROWN NORMAN | 30297/T.2023 | Scrum Master |
-| EDMUND WILLIAM RWEGASIRA | 31239/T.2023 | Developer 1 / Repo Manager |
-| REAGAN CHARLES REUBEN | 30489/T.2023 | Developer 2 |
-| FARFIJLA YAHAYA SAMBAYA | 31148/T.2023 | Developer 3 |
-| MESHACKI YUSUPH MPENDA | 32001/T.2023 | Developer 3 (Extra) |
+| JOHN MKAWE | 30831/T.2023 | Product Owner – creates Product Backlog, defines sprint goal |
+| BRITNEY BROWN NORMAN | 30297/T.2023 | Scrum Master – facilitates Scrum events, ensures process is followed, removes blockers |
+| EDMUND WILLIAM RWEGASIRA | 31239/T.2023 | Developer 1 / Repo Manager – manages repo, merges PRs, commits work |
+| REAGAN CHARLES REUBEN | 30489/T.2023 | Developer 2 – creates Sprint Increment, tracks task assignment and completion |
+| FARFIJLA YAHAYA SAMBAYA | 31148/T.2023 | Developer 3 – defines DoD, adds minor backlog notes |
+| MESHACKI YUSUPH MPENDA | 32001/T.2023 | Developer 3  – creates Sprint Backlog and small edits |
+
 
 
 ## 2. Scrum Events
