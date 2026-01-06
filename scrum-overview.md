@@ -9,7 +9,6 @@
 | MESHACKI YUSUPH MPENDA | 32001/T.2023 | Developer 3  – creates Sprint Backlog and small edits |
 
 
-
 ## 2. Scrum Events
 
 ### Sprint Planning
@@ -30,3 +29,8 @@ The Scrum Master leads the sprint retrospective meeting where the team reflects 
 - Facilitate all Scrum events: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective
 - Remove impediments affecting the team
 - Help team stay focused and follow Scrum workflow
+
+### Increment
+A working cloud-based task management web app including task creation, assignment, viewing, and completion features.
+
+The system allows users to assign tasks to other users and mark tasks as complete when finished.
