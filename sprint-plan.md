@@ -7,3 +7,10 @@
 
 ##2. Sprint Goal
 Deliver a cloud-based task management web app with basic task creation, assignment, completion, and viewing functionality in this sprint.
+
+
+### Sprint Backlog
+- Define requirements for creating a new task including title and status
+- Document the task assignment process between users
+- Describe how users will mark tasks as completed
+- Plan the structure for displaying a list of tasks in the application
