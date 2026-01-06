@@ -14,3 +14,5 @@ Deliver a cloud-based task management web app with basic task creation, assignme
 - Document the task assignment process between users
 - Describe how users will mark tasks as completed
 - Plan the structure for displaying a list of tasks in the application
+
+The sprint backlog contains selected product backlog items that can be completed within the sprint.
