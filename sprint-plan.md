@@ -12,4 +12,4 @@ Deliver a cloud-based task management web app with basic task creation, assignme
 - Code pushed to GitHub repository
 - All unit and integration tests (where applicable) passed
 - Documentation updated (README and .md files)
-- Pull Request reviewed and merged into main branch
+- Pull Request reviewed and merged into the main branch
