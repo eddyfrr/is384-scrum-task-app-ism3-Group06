@@ -28,6 +28,8 @@ The project focuses on **Scrum methodology**, team collaboration, and **DevOps p
 ---
 
 ## Repository Structure
+Each Markdown file documents a specific aspect of the Scrum workflow used in this project.
+
 is384-scrum-task-app-ism-02/
 
 ├── README.md
