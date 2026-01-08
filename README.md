@@ -37,6 +37,10 @@ is384-scrum-task-app-ism-02/
 └── sprint-plan.md
 
 
+## Cloud Deployment Note
+The application is designed as a cloud-based web system where backend services and data would be hosted on cloud infrastructure.
+
+
 ##some important informations
 - **README.md** – Project info, team, description  
 - **scrum-overview.md** – Scrum roles, events, artifacts  
