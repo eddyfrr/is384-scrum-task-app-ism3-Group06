@@ -11,11 +11,8 @@
 
 Deliver a cloud-based task management web app with basic task creation, assignment, completion, and viewing functionality in this sprint.
 
-
-### Sprint Backlog
-- Define requirements for creating a new task, including title and status
-- Document the task assignment process between users
-- Describe how users will mark tasks as completed
-- Plan the structure for displaying a list of tasks in the application
-
-The sprint backlog contains selected product backlog items that can be completed within the sprint.
+## 3. Definition of Done (DoD)
+- Code pushed to GitHub repository
+- All unit and integration tests (where applicable) passed
+- Documentation updated (README and .md files)
+- Pull Request reviewed and merged into the main branch
