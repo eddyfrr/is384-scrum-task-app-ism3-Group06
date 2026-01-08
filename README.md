@@ -1,7 +1,8 @@
 # Cloud-Based Task Management App (IS 384)
 
 ## Project Description
-This project simulates a **1-sprint Scrum workflow** for developing a **cloud-based task management web application**.  
+This project simulates a **1-sprint Scrum workflow** for developing a **cloud-based task management web application**.
+This project demonstrates the use of Scrum roles, events, and artifacts within a DevOps environment using GitHub.
 The system allows users to:
 - Create tasks
 - Assign tasks to other users
