@@ -35,4 +35,6 @@ A working cloud-based task management web app including task creation, assignmen
 
 The system allows users to assign tasks to other users and mark tasks as complete when finished.
 The application supports task creation, task assignment, task viewing, and task completion tracking.
+Task assignment allows users to assign tasks to specific users to ensure accountability and clear ownership of work.
+
 
