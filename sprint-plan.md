@@ -16,3 +16,5 @@ Deliver a cloud-based task management web app with basic task creation, assignme
 - All unit and integration tests (where applicable) passed
 - Documentation updated (README and .md files)
 - Pull Request reviewed and merged into the main branch
+
+All completed work must follow Scrum principles and DevOps best practices, including the use of branches, commits, and pull requests.
