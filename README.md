@@ -8,7 +8,7 @@ The system allows users to:
 - Assign tasks to other users
 - Track task completion
 - View task lists
-- Receive notifications  
+- Receive notifications
 
 The project focuses on **Scrum methodology**, team collaboration, and **DevOps practices** using GitHub.
 
@@ -39,8 +39,11 @@ is384-scrum-task-app-ism-02/
 └── sprint-plan.md
 
 
+
 ## Cloud Deployment Note
 The application is designed as a cloud-based web system where backend services and data would be hosted on cloud infrastructure.
+
+
 
 ## DevOps Workflow
 This project uses GitHub branches, commits, and pull requests to simulate collaborative DevOps practices.
