@@ -42,6 +42,10 @@ is384-scrum-task-app-ism-02/
 ## Cloud Deployment Note
 The application is designed as a cloud-based web system where backend services and data would be hosted on cloud infrastructure.
 
+## DevOps Workflow
+This project uses GitHub branches, commits, and pull requests to simulate collaborative DevOps practices.
+
+
 
 ##some important informations
 - **README.md** – Project info, team, description  
