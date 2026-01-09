@@ -5,8 +5,8 @@
 | BRITNEY BROWN NORMAN | 30297/T.2023 | Scrum Master – facilitates Scrum events, ensures process is followed, removes blockers |
 | EDMUND WILLIAM RWEGASIRA | 31239/T.2023 | Developer 1 / Repo Manager – manages repo, merges PRs, commits work |
 | REAGAN CHARLES REUBEN | 30489/T.2023 | Developer 2 – creates Sprint Increment, tracks task assignment and completion |
-| FARFIJLA YAHAYA SAMBAYA | 31148/T.2023 | Developer 3 – defines DoD, adds minor backlog notes |
-| MESHACKI YUSUPH MPENDA | 32001/T.2023 | Developer 3  – creates Sprint Backlog and small edits |
+| MESHAKI YUSUPH MPENDA | 32001/T.2023 | Developer 3 – defines DoD, adds minor backlog notes |
+| FARIJALA YAHAYA SAMBAYA | 31148/T.2023  | Developer 4 – creates Sprint Backlog and small edits |
 
 
 ## 2. Scrum Events
