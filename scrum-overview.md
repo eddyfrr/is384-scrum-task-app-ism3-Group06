@@ -58,6 +58,13 @@ The Sprint Retrospective allows the team to reflect on the sprint process. The S
 
 ### Product Backlog
 The Product Backlog is a prioritized list of all features and requirements for the cloud-based task management application. It is maintained and prioritized by the Product Owner.
+It includes:
+- Create task
+- Assign task to user
+- View task list
+- Mark task as complete
+- Send notifications
+The Product Owner is responsible for maintaining and updating the backlog.
 
 
 ### Increment
