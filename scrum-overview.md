@@ -3,11 +3,12 @@
 | Name | Registration Number | Role | Responsibilities |
 |-----|-------------------|------|------------------|
 | JOHN MKAWE | 30831/T.2023 | Product Owner | Defines product vision, creates and prioritizes the product backlog, and defines the sprint goal |
-| BRITNEY BROWN NORMAN | 30297/T.2023 | Scrum Master | Facilitates Scrum events and roles ensures Scrum framework is followed, removes impediments, and supports the team |
+| BRITNEY BROWN NORMAN | 30297/T.2023 | Scrum Master | Facilitates Scrum events, ensures Scrum framework is followed, removes impediments, and supports the team |
 | EDMUND WILLIAM RWEGASIRA | 31239/T.2023 | Developer 1 / Repo Manager | Implements sprint tasks, manages GitHub repository, reviews and merges pull requests |
 | REAGAN CHARLES REUBEN | 30489/T.2023 | Developer 2 | Works on task assignment, task completion, and sprint increment documentation |
 | FARIJALA YAHAYA SAMBAYA | 31148/T.2023 | Developer 3 | Defines Definition of Done and contributes to sprint planning documentation |
 | MESHACKI YUSUPH MPENDA | 32001/T.2023 | Developer 3 | Prepares sprint backlog and assists in Scrum documentation |
+
 
 ## 2. Scrum Events
 
