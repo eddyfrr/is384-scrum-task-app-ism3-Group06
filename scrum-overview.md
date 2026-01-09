@@ -41,15 +41,15 @@ The Product Backlog includes the following functional requirements:
 
  Non-Functional Requirements :
 
-The system should be web-based and accessible via a browser
+- The system should be web-based and accessible via a browser
 
-The system should be secure with authentication and authorization
+- The system should be secure with authentication and authorization
 
-The system should be easy to use and user-friendly
+- The system should be easy to use and user-friendly
 
-The system should store data securely in the cloud
+- The system should store data securely in the cloud
 
-The system should support multiple users simultaneously
+- The system should support multiple users simultaneously
 
 The Product Owner is responsible for continuously refining, updating, and prioritizing the Product Backlog based on project needs and stakeholder feedback.
 
