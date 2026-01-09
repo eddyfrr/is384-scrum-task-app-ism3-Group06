@@ -35,6 +35,19 @@ It includes:
 - View task list
 - Mark task as complete
 - Send notifications
+
+ Non-Functional Requirements:
+
+The system should be web-based and accessible via a browser
+
+The system should be secure with authentication and authorization
+
+The system should be easy to use and user-friendly
+
+The system should store data securely in the cloud
+
+The system should support multiple users simultaneously
+
 The Product Owner is responsible for maintaining and updating the backlog.
 
 ### Sprint Backlog
