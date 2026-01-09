@@ -54,11 +54,11 @@ At the end of the sprint, the team demonstrates the completed features of the cl
 The Sprint Retrospective allows the team to reflect on the sprint process. The Scrum Master leads discussions on what went well, what needs improvement, and actions for the next sprint.
 
 
-## 3. Scrum Master Responsibilities
-- Ensure Scrum practices are followed by the team
-- Facilitate all Scrum events: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective
-- Remove impediments affecting the team
-- Help team stay focused and follow Scrum workflow
+## 3. Scrum Artifacts
+
+### Product Backlog
+The Product Backlog is a prioritized list of all features and requirements for the cloud-based task management application. It is maintained and prioritized by the Product Owner.
+
 
 ### Increment
 A working cloud-based task management web app including task creation, assignment, viewing, and completion features.
