@@ -16,27 +16,30 @@
 Sprint Planning is conducted at the beginning of the sprint. The Product Owner presents the product backlog, the development team selects items to work on, and a sprint goal is agreed upon. The Scrum Master facilitates the meeting.
 
 ### Daily Scrum
-The Daily Scrum is a short 15-minute meeting held each day. Team members share progress, planned work, and any challenges. The Scrum Master ensures the meeting is productive and time-boxed.
+The Daily Scrum is a 15-minute time-boxed meeting held each day of the sprint. Team members share their progress, planned tasks, and any challenges or blockers. The Scrum Master ensures the meeting remains focused and productive, while the Development Team uses it to coordinate work.
 
 ### Sprint Review
 At the end of the sprint, the team demonstrates the completed features of the cloud-based task management application. Feedback is collected from stakeholders to improve future work.
 
 ### Sprint Retrospective
-The Sprint Retrospective allows the team to reflect on the sprint process. The Scrum Master leads discussions on what went well, what needs improvement, and actions for the next sprint.
+The Sprint Retrospective is held after the Sprint Review. The Scrum Master leads the team in reflecting on the sprint by discussing what went well, what needs improvement, and identifying actionable steps to enhance performance in the next sprint.
+
+
 
 
 ## 3. Scrum Artifacts
 
 ### Product Backlog
 The Product Backlog is a prioritized list of all features and requirements for the cloud-based task management application. It is maintained and prioritized by the Product Owner.
-It includes:
+
+The Product Backlog includes the following functional requirements:
 - Create task
 - Assign task to user
 - View task list
 - Mark task as complete
 - Send notifications
 
- Non-Functional Requirements:
+ Non-Functional Requirements :
 
 The system should be web-based and accessible via a browser
 
@@ -48,7 +51,7 @@ The system should store data securely in the cloud
 
 The system should support multiple users simultaneously
 
-The Product Owner is responsible for maintaining and updating the backlog.
+The Product Owner is responsible for continuously refining, updating, and prioritizing the Product Backlog based on project needs and stakeholder feedback.
 
 ### Sprint Backlog
 The Sprint Backlog contains selected product backlog items that the development team commits to completing during the sprint.
