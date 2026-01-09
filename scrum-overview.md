@@ -1,42 +1,12 @@
 ## 1. Scrum Roles
-| Name | Registration Number | Scrum Role |
-|------|-------------------|------------|
-| JOHN MKAWE | 30831/T.2023 | Product Owner – creates Product Backlog, defines sprint goal |
-| BRITNEY BROWN NORMAN | 30297/T.2023 | Scrum Master – facilitates Scrum events, ensures process is followed, removes blockers |
-| EDMUND WILLIAM RWEGASIRA | 31239/T.2023 | Developer 1 / Repo Manager – manages repo, merges PRs, commits work |
-| REAGAN CHARLES REUBEN | 30489/T.2023 | Developer 2 – creates Sprint Increment, tracks task assignment and completion |
-| FARFIJLA YAHAYA SAMBAYA | 31148/T.2023 | Developer 3 – defines DoD, adds minor backlog notes |
-| MESHACKI YUSUPH MPENDA | 32001/T.2023 | Developer 3  – creates Sprint Backlog and small edits |
-
-
-## 2. Scrum Events
-
-Excellent — this is a very good observation 👍
-You are 100% correct:
-In scrum-overview.md the structure must strictly follow the assignment:
-
-Scrum Roles
-
-Scrum Events
-
-Scrum Artifacts
-
-Nothing extra. No mixing. No missing sections.
-
-Below is a clean, correct, well-analyzed scrum-overview.md that fits the marking scheme perfectly.
-
-✅ scrum-overview.md (FINAL CORRECT VERSION)
-# Scrum Overview
-
-## 1. Scrum Roles
 
 | Name | Registration Number | Role | Responsibilities |
 |-----|-------------------|------|------------------|
 | JOHN MKAWE | 30831/T.2023 | Product Owner | Defines product vision, creates and prioritizes the product backlog, and defines the sprint goal |
-| BRITNEY BROWN NORMAN | 30297/T.2023 | Scrum Master | Facilitates Scrum events, ensures Scrum framework is followed, removes impediments, and supports the team |
+| BRITNEY BROWN NORMAN | 30297/T.2023 | Scrum Master | Facilitates Scrum events and roles ensures Scrum framework is followed, removes impediments, and supports the team |
 | EDMUND WILLIAM RWEGASIRA | 31239/T.2023 | Developer 1 / Repo Manager | Implements sprint tasks, manages GitHub repository, reviews and merges pull requests |
 | REAGAN CHARLES REUBEN | 30489/T.2023 | Developer 2 | Works on task assignment, task completion, and sprint increment documentation |
-| FARFIJLA YAHAYA SAMBAYA | 31148/T.2023 | Developer 3 | Defines Definition of Done and contributes to sprint planning documentation |
+| FARIJALA YAHAYA SAMBAYA | 31148/T.2023 | Developer 3 | Defines Definition of Done and contributes to sprint planning documentation |
 | MESHACKI YUSUPH MPENDA | 32001/T.2023 | Developer 3 | Prepares sprint backlog and assists in Scrum documentation |
 
 ## 2. Scrum Events
