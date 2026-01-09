@@ -66,6 +66,9 @@ It includes:
 - Send notifications
 The Product Owner is responsible for maintaining and updating the backlog.
 
+### Sprint Backlog
+The Sprint Backlog contains selected product backlog items that the development team commits to completing during the sprint.
+
 
 ### Increment
 A working cloud-based task management web app including task creation, assignment, viewing, and completion features.
